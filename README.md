@@ -5,3 +5,6 @@ South African IEB Past papers solutions. These solutions where done in 2019 so i
 
 
 
+## Netbeans
+
+I used the Nebeans IDE for these.
