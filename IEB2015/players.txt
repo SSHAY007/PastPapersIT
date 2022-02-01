@@ -1,0 +1,32 @@
+1,Colby Noble,Hong Kong
+2,Craig Hamilton,Myanmar
+3,Dante Franklin,South Korea
+4,Chadwick Baird,India
+5,Wallace Forbes,Cameroon
+6,Tanek Jimenez,Italy
+7,Jared Flynn,Burundi
+8,Yasir Rosario,Taiwan
+9,Levi Klein,Botswana
+10,Kibo Ford,American Samoa
+11,Lamar Carney,Central African Republic
+12,Dieter Reese,Brunei
+13,Brady Serrano,Rwanda
+14,Theodore Snyder,The Netherlands
+15,Flynn Flynn,Moldova
+16,Alec Sellers,United States
+17,Oscar Price,Thailand
+18,Neville Ball,Lesotho
+19,Nero Barr,Germany
+20,Yardley Craig,United States
+21,Daquan Morales,Spain
+22,Stuart Barrett,Marshall Islands
+23,Hector Hinton,Djibouti
+24,Dillon Maddox,Liberia
+25,Nash Powers,Andorra
+26,Harper Hubbard,Hong Kong
+27,Stuart Williams,Gibraltar
+28,Barrett Roberson,Peru
+29,Knox Olson,Somalia
+30,Kasper Greene,Scotland
+31,Emery Kramer,South Africa
+32,Jason Underwood,Portugal

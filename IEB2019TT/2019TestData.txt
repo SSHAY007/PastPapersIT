@@ -1,0 +1,18 @@
+Captain Nash,outdoor,4
+Thomas Bakker,indoor,15.5
+Tom Brady,outdoor,23
+James Kane,indoor,14.3
+Yash Mash,outdoor,10
+Just Jain,indoor,18.8
+Deven Bot,outdoor,4
+Boutie Bakker,indoor,15.9
+Jock Brandy,outdoor,12
+Charlie Sparky,indoor,14.2
+Tenash dmt ,outdoor,32
+Joe deni,indoor,23.5
+Luis Bot,outdoor,4
+Delfor stat,indoor,15.3
+Simba bris,outdoor,12
+Natesh fast,indoor,14.9
+Lowko sal,outdoor,32
+Simone dejan,indoor,23.5
